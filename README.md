@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f7IYwJAX5j3p4L3BjX08dqO2Gbs7a4SM/view?usp=drive_link](https://drive.google.com/file/d/1f7IYwJAX5j3p4L3BjX08dqO2Gbs7a4SM/view?usp=drive_link)
 
-<h2 align="center">Top Reopos</h2>
+<h2 align="center">Top Repos</h2>
 <a href="https://github.com/AshlinJoelSizzin/RockFetch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshlinJoelSizzin&repo=RockFetch&theme=dracula&show_owner=true" />
 </a>       
