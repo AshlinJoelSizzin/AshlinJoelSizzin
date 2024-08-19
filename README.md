@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/c9dd8184acce8b199a8d717cdb2c10dd89e850128b86279978b95451e18c6da7/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
 
 <h1 align="center">Hi 👋, I'm Ashlin Joel Sizzin</h1>
-<h3 align="center">An Undergrad pursuing Computer Science Engineering who is exteremely passionate about Software Engineering, Full Stack Development and Cloud Architecting</h3>
+<h3 align="center">An undergraduate student majoring in Computer Science Engineering with a strong passion for Software Engineering, Full Stack Development, and Cloud Architecture.</h3>
 
 <img align="right" width="400" src="https://media.licdn.com/dms/image/v2/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1630526455370?e=1729728000&v=beta&t=7FWgstzyYYPcfJ6S6pkAI30dY5zPskeN0Tz54OYqB7k" >
 
