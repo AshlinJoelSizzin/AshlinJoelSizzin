@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Full Stack Development, AWS Cloud and Project Management**
 
+- 👨‍💻 My Portfolio [https://ashlinjoelsizzin.github.io/Portfolio/](https://ashlinjoelsizzin.github.io/Portfolio/)
+
 - 📫 How to reach me **ashlinjoel30sizzin@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f7IYwJAX5j3p4L3BjX08dqO2Gbs7a4SM/view?usp=drive_link](https://drive.google.com/file/d/1f7IYwJAX5j3p4L3BjX08dqO2Gbs7a4SM/view?usp=drive_link)
