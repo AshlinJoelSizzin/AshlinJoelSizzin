@@ -1,4 +1,4 @@
-![MasterHead]([https://camo.githubusercontent.com/c9dd8184acce8b199a8d717cdb2c10dd89e850128b86279978b95451e18c6da7/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmohamednageh7%2Fmohamednageh7&psig=AOvVaw21x_ZqeWJ5584qjII5PCg9&ust=1727197068753000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjvm8fE2YgDFQAAAAAdAAAAABAY))
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmohamednageh7%2Fmohamednageh7&psig=AOvVaw21x_ZqeWJ5584qjII5PCg9&ust=1727197068753000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjvm8fE2YgDFQAAAAAdAAAAABAY)
 
 <h1 align="center">Hi 👋, I'm Ashlin Joel Sizzin</h1>
 <h3 align="center">An undergraduate student majoring in Computer Science Engineering with a strong passion for Software Engineering, Full Stack Development, and Cloud Architecture.</h3>
