@@ -1,4 +1,4 @@
-![MasterHead](<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjc6VSqORg5sexbYmvuWKKL3Ic7c44kB-ecREifKFZAH7bu_h01AbOh1Dls3-lqfd9S3U&usqp=CAU" alt="MasterHead" style="width: 100%; max-width: 1200px;">)
+![MasterHead](https://www.intellidyne-llc.com/wp-content/uploads/2020/11/AppDev-Solutions-2000x400-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Ashlin Joel Sizzin</h1>
 <h3 align="center">An undergraduate student majoring in Computer Science Engineering with a strong passion for Software Engineering, Full Stack Development, and Cloud Architecture.</h3>
